@@ -58,7 +58,7 @@ And systems can always be improved.
 ## 🚀 Current Focus
 ### Advanced Machine Learning
 ### Data Engineering foundations
-### Sys/tem design thinking
+### System design thinking
 ### Building scalable data tools
 ### Preparing for:
 |Data Scientist| Machine Learning Engineer | Data Engineer |
