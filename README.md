@@ -1,65 +1,221 @@
-```python
-while True:
-    learn()
-    build()
-    optimize()
+<div align="center">
+
+<!-- HEADER ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&animation=fadeIn"/>
+
 ```
+╔══════════════════════════════════════════════════════╗
+║  Every dataset tells a story. I learn to listen.    ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anabel+%F0%9F%91%8B;Systems+Engineer+%F0%9F%96%A5%EF%B8%8F;Data+Scientist+in+Progress+%F0%9F%94%AC;Chaos+%E2%86%92+Structure+%E2%86%92+Insight" alt="Typing SVG" />
+</h1>
+
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px">
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=anabelberumen&color=7c3aed&style=flat-square&label=Profile+Views" />
+
+</div>
+
+---
 
 <div align="center">
 
-## About me!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## `$ whoami`
 
+</div>
 
-I am a Systems Engineer 🖥️ from México 🇲🇽, I’m a data scientist in progress, obsessed with understanding systems — from mathematical models to real-world complexity.
+```python
+class Anabel:
+    def __init__(self):
+        self.role      = "Systems Engineer → Data Scientist"
+        self.location  = "México 🇲🇽"
+        self.passion   = ["patterns", "models", "complexity", "optimization"]
+        self.belief    = "Chaos can be structured. Systems can always improve."
+        self.status    = "Building, learning, iterating — always."
 
-I don’t just want to use models. I want to understand them, deconstruct them, and improve them.
-### My favorite field of work is
-🔹 Machine Learning & Deep Learning <p>
-🔹 Data Engineering <p>
-🔹 Mathematical Modeling <p>
-🔹 Optimization <p>
-🔹 Intelligent Systems Design <p>
+    def approach(self):
+        while True:
+            observe()   # find the signal in the noise
+            model()     # build the abstraction
+            optimize()  # push it further
+            repeat()    # there's always a next layer
+```
 
-I believe chaos can be structured.
-And systems can always be improved.
+---
 
-## 🛠️Tech Stack
+<div align="center">
 
-### 📚Languages:
+## `$ ls ~/interests/`
 
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.microsoft.com/es-mx/sql-server/sql-server-downloads"><img height="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></a></code>
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+**🧠 Machine Learning**
+**& Deep Learning**
+
+*Not just using models —
+understanding, deconstructing
+and improving them*
+
+</td>
+<td align="center" width="25%">
+
+**🔩 Data Engineering**
+
+*Building the pipelines
+that make everything
+else possible*
+
+</td>
+<td align="center" width="25%">
+
+**📐 Mathematical**
+**Modeling**
+
+*Where abstraction
+meets the real world*
+
+</td>
+<td align="center" width="25%">
+
+**⚡ Optimization**
+
+*Every system has
+a better version
+of itself*
+
+</td>
+</tr>
+</table>
+
+> *"I don't just want to use models. I want to understand them, deconstruct them, and improve them."*
+
+---
+
+<div align="center">
+
+## `$ cat tech_stack.json`
+
+</div>
+
+### 📚 Languages
+
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/es-mx/sql-server/)
+
+</div>
 
 ### 📊 Data & Machine Learning
-<code><a href="https://numpy.org/"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
-<code><a href="https://pandas.pydata.org/"><img height="50" src="https://pandas.pydata.org/static/img/pandas_secondary.svg"></a></code>
-<code><a href="https://scikit-learn.org/"><img height="50" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg"></a></code>
-<code><a href="https://pytorch.org/"><img height="50" src="https://icon.icepanel.io/Technology/svg/PyTorch.svg"></a></code>
-<code><a href="https://excel.cloud.microsoft/es-es/"><img height="50" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000"></a></code>
+
+<div align="center">
+
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://excel.cloud.microsoft/)
+
+</div>
+
 ### ⚙️ Engineering & Tools
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<code><a href="https://jupyter.org/"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-<code><a href="https://code.visualstudio.com/"><img height="50" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg"></a></code>
+
+<div align="center">
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+</div>
+
+### 💻 OS
+
+<div align="center">
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://ubuntu.com/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/es-mx/)
+
+</div>
+
+---
+
+<div align="center">
+
+## `$ git log --oneline --graph # current focus`
+
+</div>
+
+```
+* [HEAD] → Preparing for: Data Scientist | ML Engineer | Data Engineer
+|
+├── feat: Advanced Machine Learning techniques
+├── feat: Data Engineering foundations
+├── feat: System design thinking
+└── build: Scalable data tools & pipelines
+```
+
+---
+
+<div align="center">
+
+## `$ ping kaggle.com # let's compete`
+
+</div>
+
+<div align="center">
+
+I'm available to team up on Kaggle — bring a dataset, let's find the story inside it.
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-@anabelberumen-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/anabelberumen/)
+
+</div>
+
+---
+
+<div align="center">
+
+## `$ cat github_stats.md`
+
+</div>
 
 
-### 💻OS
-<code><a href="https://ubuntu.com/"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://www.microsoft.com/es-mx/software-download"><img height="50" src="https://www.svgrepo.com/show/382713/windows-applications.svg"></a></code>
 
+<div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=anabelberumen&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
 
+</div>
 
-## I am available to team up on kaggle.
-<code><a href="https://www.kaggle.com/anabelberumen/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a></code>
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anabel-chavez-berumen-40a56776/)
+---
 
+<div align="center">
 
-## 🚀 Current Focus
-### Advanced Machine Learning
-### Data Engineering foundations
-### System design thinking
-### Building scalable data tools
-### Preparing for:
-|Data Scientist| Machine Learning Engineer | Data Engineer |
-</div>  
+## `$ open ./connect.sh`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anabel_Chavez_Berumen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anabel-chavez-berumen-40a56776/)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   "I believe chaos can be structured.                    ║
+║    And systems can always be improved."                  ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn"/>
+
+</div>
